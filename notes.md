@@ -1,0 +1,1 @@
+Entering in the browser console: `mountedApp.product = 'Boots'` will live update the value of the product
